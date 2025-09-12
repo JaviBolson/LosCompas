@@ -18,3 +18,4 @@ prediction = (similitud * luis_frozen) / similitud
 #?Resultados:
 print("similitud Ana-Luis:", round (similitud,2))
 print("prediccion de Ana para Frozen:", round(prediction,2))
+# estuvo buena la practica
