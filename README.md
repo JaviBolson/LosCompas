@@ -1,0 +1,2 @@
+# LosCompas
+trabajos IA
