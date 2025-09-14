@@ -23,3 +23,5 @@ prediccion = ((similitud * pepito_jackass) + (similitud2 * alvinyakitori_jackass
 print ("similitud pepito-ramona:", round (similitud, 2))
 print ("similitud pepito-alvin:", round (similitud2, 2))
 print ("prediccion de ramona para jackass", round (prediccion, 3))
+
+# Lo hicimos en clase todo el equipo en la compu de Johan
