@@ -25,3 +25,4 @@ print ("similitud pepito-alvin:", round (similitud2, 2))
 print ("prediccion de ramona para jackass", round (prediccion, 3))
 
 # Lo hicimos en clase todo el equipo en la compu de Johan
+#me gano una impresora :<
